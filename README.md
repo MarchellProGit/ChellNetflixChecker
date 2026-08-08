@@ -6,6 +6,7 @@
 ### High-Speed Netflix Auth Checker
 **Author: Marchell Adi Pratama • ChellSpace Security Labs**
 
+[![Downloads](https://img.shields.io/github/downloads/MarchellProGit/ChellNetflixChecker/total?style=for-the-badge&color=00F0FF&logo=github&logoColor=white)](https://github.com/MarchellProGit/ChellNetflixChecker/releases)
 [![Build](https://img.shields.io/badge/Build-v1.0.0--PROD-00ff41?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MarchellProGit/ChellNetflixChecker/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-38BDF8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/MarchellProGit/ChellNetflixChecker/releases)
 [![License](https://img.shields.io/badge/License-Proprietary_EULA-E11D48?style=for-the-badge&logo=shield&logoColor=white)](#terms-of-service--license)
